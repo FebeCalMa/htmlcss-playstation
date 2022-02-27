@@ -3,7 +3,7 @@ img[alt="sony_logo"] {
   height: auto;
 }
 
-.bg-jumbotron {
+#jumbotron-returnal {
   min-height: 512px;
   background-image: url(/img/jumbo-bg.png);
   background-repeat: no-repeat;
@@ -15,8 +15,12 @@ img[alt="returnal-hero-banner-logo"] {
   height: auto;
 }
 
-img[alt="returnal-listing-thumb"],
-img[alt="ratchet-and-clank"] {
+img[alt="playstation-5"] {
+  width: 600px;
+  height: auto;
+}
+
+img[alt="product-list"] {
   width: 150px;
   height: auto;
   margin: 5px;
