@@ -10,7 +10,22 @@ img[alt="sony_logo"] {
   color: white;
 }
 
-img[alt="returnal-hero-banner-logo"] {
+#jumbotron-takestwo {
+  background-image: url(/img/it-takes-two-hero-banner-desktop.jpg);
+  min-height: 512px;
+  background-repeat: no-repeat;
+  color: white;
+}
+
+#nuove-uscite {
+  width: auto;
+  height: auto;
+  background-color: black;
+  color: white;
+}
+
+img[alt="returnal-hero-banner-logo"],
+img[alt="takestwo-logo"] {
   width: 200px;
   height: auto;
 }
@@ -20,8 +35,9 @@ img[alt="playstation-5"] {
   height: auto;
 }
 
-img[alt="product-list"] {
-  width: 150px;
+img[alt="product-list"],
+img[alt="nuovi-giochi"] {
+  width: 200px;
   height: auto;
   margin: 5px;
   border-radius: 5px;
