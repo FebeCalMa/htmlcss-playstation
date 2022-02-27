@@ -1,0 +1,24 @@
+img[alt="sony_logo"] {
+  width: 100px;
+  height: auto;
+}
+
+.bg-jumbotron {
+  min-height: 512px;
+  background-image: url(/img/jumbo-bg.png);
+  background-repeat: no-repeat;
+  color: white;
+}
+
+img[alt="returnal-hero-banner-logo"] {
+  width: 200px;
+  height: auto;
+}
+
+img[alt="returnal-listing-thumb"],
+img[alt="ratchet-and-clank"] {
+  width: 150px;
+  height: auto;
+  margin: 5px;
+  border-radius: 5px;
+}
