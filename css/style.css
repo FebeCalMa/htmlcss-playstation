@@ -24,14 +24,40 @@ img[alt="sony_logo"] {
   color: white;
 }
 
+#playstationplus {
+  width: auto;
+  height: auto;
+  background-color: #bebcbb;
+}
+
+div[class="giochi"],
+div[class="product"] {
+  width: 200px;
+  height: auto;
+  text-align: center;
+}
+
+div[class="items"],
+img[alt="ps4-item"] {
+  width: 400px;
+  height: auto;
+  text-align: center;
+}
+
 img[alt="returnal-hero-banner-logo"],
 img[alt="takestwo-logo"] {
   width: 200px;
   height: auto;
 }
 
-img[alt="playstation-5"] {
-  width: 600px;
+img[alt="logo-plus"] {
+  width: 300px;
+  height: auto;
+}
+
+img[alt="playstation-5"],
+img[alt="banner"] {
+  max-width: 600px;
   height: auto;
 }
 
