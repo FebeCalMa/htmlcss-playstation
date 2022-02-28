@@ -37,6 +37,10 @@ div[class="product"] {
   text-align: center;
 }
 
+section {
+  margin: 10px 0px;
+}
+
 div[class="items"],
 img[alt="ps4-item"] {
   width: 400px;
@@ -50,7 +54,8 @@ img[alt="takestwo-logo"] {
   height: auto;
 }
 
-img[alt="logo-plus"] {
+img[alt="logo-plus"],
+img[alt="discount-item"] {
   width: 300px;
   height: auto;
 }
