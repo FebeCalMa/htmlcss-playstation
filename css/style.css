@@ -30,6 +30,13 @@ img[alt="sony_logo"] {
   background-color: #bebcbb;
 }
 
+#playstationnow {
+  width: auto;
+  height: auto;
+  background-color: #161c3b;
+  color: white;
+}
+
 div[class="giochi"],
 div[class="product"] {
   width: 200px;
@@ -48,6 +55,11 @@ img[alt="ps4-item"] {
   text-align: center;
 }
 
+img[alt="social-item"] {
+  width: 150px;
+  height: auto;
+}
+
 img[alt="returnal-hero-banner-logo"],
 img[alt="takestwo-logo"] {
   width: 200px;
@@ -55,13 +67,15 @@ img[alt="takestwo-logo"] {
 }
 
 img[alt="logo-plus"],
-img[alt="discount-item"] {
+img[alt="discount-item"],
+img[alt="now-logo"] {
   width: 300px;
   height: auto;
 }
 
 img[alt="playstation-5"],
-img[alt="banner"] {
+img[alt="banner"],
+img[alt="banner-now"] {
   max-width: 600px;
   height: auto;
 }
